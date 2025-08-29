@@ -3,13 +3,13 @@ This repository contains the MATLAB implementation of a thermal analysis project
 
 # Features
 
--**1D & 2D Heat Equation Solvers:** Forward Differencing, DuFort-Frankel, Backward Differencing, Crank-Nicolson.
--**Solver Techniques:** Tri-diagonal matrix algorithm for 1D implicit methods and Gauss-Seidel iteration for 2D implicit solutions.
--**Boundary Conditions:** Supports Neumann boundaries for zero-heat-flux inner surfaces.
--**Discretisation Optimisation:** Automated determination of optimal time and space steps to balance accuracy (<5% error) and computational efficiency.
--**Tile Thickness Analysis:** Calculates minimum safe heat shield thickness to protect the internal structure.
--**Damage Analysis:** Maps tile failure zones when local temperature exceeds material limits (660 °C).
--**Interactive GUI:** 1D and 2D visualisations of temperature profiles, numerical method performance, and damage progression.
+- **1D & 2D Heat Equation Solvers:** Forward Differencing, DuFort-Frankel, Backward Differencing, Crank-Nicolson.
+- **Solver Techniques:** Tri-diagonal matrix algorithm for 1D implicit methods and Gauss-Seidel iteration for 2D implicit solutions.
+- **Boundary Conditions:** Supports Neumann boundaries for zero-heat-flux inner surfaces.
+- **Discretisation Optimisation:** Automated determination of optimal time and space steps to balance accuracy (<5% error) and computational efficiency.
+- **Tile Thickness Analysis:** Calculates minimum safe heat shield thickness to protect the internal structure.
+- **Damage Analysis:** Maps tile failure zones when local temperature exceeds material limits (660 °C).
+- **Interactive GUI:** 1D and 2D visualisations of temperature profiles, numerical method performance, and damage progression.
 
 # Usage
 
