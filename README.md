@@ -13,4 +13,4 @@ This repository contains the MATLAB implementation of a thermal analysis project
 
 # Usage
 
-Run the main.m script to launch the GUI and simulate heat transfer for various tile locations. Select numerical methods, time/space discretization, and view interactive 1D or 2D visualizations of heat flow and damage.
+Run the main.m script to launch the GUI and simulate heat transfer for various tile locations. Select numerical methods, time/space discretisation, and view interactive 1D or 2D visualisations of heat flow and damage.
